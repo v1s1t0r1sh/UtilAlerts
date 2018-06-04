@@ -1,0 +1,1 @@
+alert("Stiu cine esti");
